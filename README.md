@@ -1,9 +1,3 @@
-
----
-
-## 📁 **README - API (Spring Boot)**
-
-```markdown
 # Gerenciador de Tarefas - API
 
 Este é o back-end da aplicação de gerenciamento de tarefas, desenvolvido com Spring Boot. Fornece endpoints REST para criação, consulta, atualização e exclusão de tarefas.
@@ -32,11 +26,11 @@ Este é o back-end da aplicação de gerenciamento de tarefas, desenvolvido com 
 ### Passos
 
 # Clonar o repositório
-git clone https://github.com/staubjoao/ed-lista-tarefas-api.git
+``git clone https://github.com/staubjoao/ed-lista-tarefas-api.git``
 
 
 # Acessar o diretório
-cd ed-lista-tarefas-api
+``cd ed-lista-tarefas-api``
 
 # Executar a aplicação
-./mvnw spring-boot:run
+``./mvnw spring-boot:run``
