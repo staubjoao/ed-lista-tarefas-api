@@ -36,17 +36,13 @@ Este é o back-end da aplicação de gerenciamento de tarefas, desenvolvido com 
 ```
 git clone [https://github.com/seu-usuario/gerenciador-tarefas-api.git](https://github.com/staubjoao/ed-lista-tarefas-api)
 
-```
 
 # Acessar o diretório
 
 ```
 cd ed-lista-tarefas-api
 
-```
-
 # Executar a aplicação
 
 ```
 ./mvnw spring-boot:run
-```
