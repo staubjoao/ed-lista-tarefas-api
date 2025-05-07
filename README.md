@@ -32,7 +32,7 @@ Este é o back-end da aplicação de gerenciamento de tarefas, desenvolvido com 
 ### Passos
 
 # Clonar o repositório
-git clone [https://github.com/seu-usuario/gerenciador-tarefas-api.git](https://github.com/staubjoao/ed-lista-tarefas-api)
+git clone https://github.com/staubjoao/ed-lista-tarefas-api.git
 
 
 # Acessar o diretório
